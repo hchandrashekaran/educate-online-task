@@ -10,8 +10,8 @@ This is a simple **Node.js** project which implements a **sortArrayOfStrings** f
 
 ### 1. Clone the Repository
 ```sh
-git clone https://github.com/yourusername/binary-sort-project.git
-cd binary-sort-project
+git clone https://github.com/hchandrashekaran/educate-online-task.git
+cd educate-online-task
 ```
 ### 2. Install node and dependencies
 - Install [Node.js](https://nodejs.org/en/)
