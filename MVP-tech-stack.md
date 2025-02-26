@@ -26,7 +26,7 @@ To build a web application **public chatbot conversation** using **OpenAI GPT-4o
 **Postgres(AWS RDS) or MongoDB(AWS DocumentDB)**
 - Postgres with strong relational structure(ACID Complaint), ideal for standard chat history.
 - Postgres has websockets support via Listen/Notify.
-- MongoDB with Mongoose(ODM) has flexible schema, which is a good fir for chat applications.
+- MongoDB with Mongoose(ODM) has flexible schema, which is a good fit for chat applications.
 - MongoDB performes well with unstructured JSON-based messages.
 
 ---
